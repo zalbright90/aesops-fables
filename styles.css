@@ -1,0 +1,220 @@
+/* Custom Reset */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Colors */
+:root {
+    --kyaneos: #1A237E; /* Darker blue */
+    --glaukos: #3F51B5; /* Indigo */
+    --porphyreos: #9C27B0; /* Purple */
+    --lampros: #E8EAF6; /* Light Indigo */
+    --chlōros: #4CAF50; /* Green */
+    --erythros: #F44336; /* Red */
+    --leukos: #FFFFFF; /* White */
+    --melas: #212121; /* Almost Black */
+    --xanthos: #FFC107; /* Amber */
+
+    --background: var(--lampros);
+    --text: var(--melas);
+    --accent: var(--porphyreos);
+}
+
+body {
+    font-family: 'Playfair Display', system-ui, -apple-system, BlinkMacSystemFont, 'Georgia' serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    background-color: var(--background);
+    color: var(--text);
+    font-size: 16px;
+}
+
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+
+input, button, textarea, select {
+    font: inherit;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+header {
+    background: linear-gradient(to bottom, var(--kyaneos), var(--glaukos));
+    color: var(--leukos);
+    padding: 2rem 1rem;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+header p {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+
+.navbar {
+    background-color: var(--glaukos);
+    padding: 1rem;
+    text-align: center;
+    color: var(--leukos);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+#fable-select {
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    background-color: var(--lampros);
+    color: var(--text);
+}
+
+#random-fable {
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    background-color: var(--accent);
+    color: var(--leukos);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#random-fable:hover {
+    background-color: var(--porphyreos);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+#random-fable:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+main {
+    padding: 2rem 1rem;
+}
+
+#intro, #reflection {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#fable-content {
+    background-color: var(--leukos);
+    padding: 2rem 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+    transition: opacity 0.5s ease;
+}
+
+#fable-content h2 {
+    color: var(--kyaneos);
+    margin-bottom: 1rem;
+}
+
+#fable-content img {
+    max-width: 100%;
+    height: auto;
+    margin: 1rem auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+#fable-content img:hover {
+    transform: scale(1.03);
+}
+
+footer {
+    background-color: var(--kyaneos);
+    color: var(--leukos);
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+}
+
+.social-links {
+    margin-top: 0.5rem;
+}
+
+.social-links a {
+    color: var(--leukos);
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+    text-decoration: none;
+    margin: 0 0.5rem;
+}
+
+.social-links a:hover {
+    color: var(--xanthos);
+}
+
+/* Tablet and Desktop styles */
+@media (min-width: 768px) {
+    body {
+        font-size: 18px;
+    }
+
+    .container {
+        width: 80%;
+        max-width: 1200px;
+    }
+
+    header {
+        padding: 3rem 2rem;
+    }
+
+    h1 {
+        font-size: 3.5rem;
+    }
+
+    header p {
+        font-size: 1.2rem;
+    }
+
+    .navbar {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #fable-select, #random-fable {
+        width: auto;
+        margin: 0 0.5rem;
+    }
+
+    main {
+        padding: 3rem 2rem;
+    }
+
+    #fable-content {
+        padding: 3rem 2rem;
+    }
+}
