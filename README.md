@@ -9,4 +9,4 @@ Welcome to the **Aesop's Fables Illustrated** project! This interactive web appl
 - **Responsive Design**: Enjoy a seamless experience across various devices, including desktops, tablets, and smartphones.
 - **Vibrant Illustrations**: Each fable is accompanied by a visually appealing illustration to enhance your reading experience.
 
-[Aesop's Fables](https://github.io/zalbright90/aesops-fables)
+[Aesop's Fables](https://zalbright90.github.io/aesops-fables/)
