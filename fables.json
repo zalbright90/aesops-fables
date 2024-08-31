@@ -69,6 +69,13 @@
             "content": "<p>All the mice gathered for a meeting to figure out how to protect themselves from the cat’s attacks. After discussing various ideas, a wise and experienced mouse suggested, 'I believe I have a solution that will keep us safe. We should put a bell around the cat’s neck so its ringing will alert us to its approach.' The idea was met with enthusiasm, and it was agreed that they should proceed with it. Just then, an older mouse spoke up and said, 'I agree that this plan sounds great, but can someone explain who will be responsible for putting the bell on the cat?'</p>",
             "moral": "<em>Great ideas are meaningless without a practical plan for implementation. Solutions are only as effective as the actions taken to achieve them.</em>",
             "image": "./images/mice-council.jpg"
+        },
+        {
+            "id": "aesop-poultry",
+            "title": "Aesop and the Poultry",
+            "content": "</p>One day, Aesop, a clever thinker, was seen watching some chickens in a fenced yard along the road. The neighbors, always more curious about others' business than their own, wanted to know why Aesop was paying such close attention to the birds. 'I am fascinated,' Aesop replied, 'by how humans imitate these silly creatures.'</p><p>'In what way?' the neighbors asked.</p><p>'Well,' Aesop said, 'they're great at making a lot of noise but terrible at actually doing anything useful.'</p>",
+            "moral": "<em>A wise person values deeds over boasts; for a boastful crow without action is like an empty vessel — full of noise, but hollow at heart.</em>",
+            "image": "./images/aesop-poultry.jpg"
         }
     ]
 }
