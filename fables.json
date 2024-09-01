@@ -76,6 +76,13 @@
             "content": "</p>One day, Aesop, a clever thinker, was seen watching some chickens in a fenced yard along the road. The neighbors, always more curious about others' business than their own, wanted to know why Aesop was paying such close attention to the birds. 'I am fascinated,' Aesop replied, 'by how humans imitate these silly creatures.'</p><p>'In what way?' the neighbors asked.</p><p>'Well,' Aesop said, 'they're great at making a lot of noise but terrible at actually doing anything useful.'</p>",
             "moral": "<em>A wise person values deeds over boasts; for a boastful crow without action is like an empty vessel — full of noise, but hollow at heart.</em>",
             "image": "./images/aesop-poultry.jpg"
+        },
+        {
+            "id": "bee-and-cuckoo",
+            "title": "The Bee and The Cuckoo",
+            "content": "<p>A bee, flying out of its hive, said to a cuckoo singing on a nearby bush, 'Would you please stop that monotonous noise? There's never been a bird with such a tiresome, repetitive song as yours. It's always 'cuckoo, cuckoo, cuckoo' over and over again.'</p><p>'Well,' replied the cuckoo, 'I'm surprised you criticize my song when your work is just as repetitive. Even if you had a hundred hives to fill, you'd make them all exactly the same. If I'm not inventing anything new, surely everything you do is just as old as the world itself.'</p><p>The bee responded, 'I'll admit that. But in practical work, consistency is a virtue. In matters of art and entertainment, however, monotony is to be avoided at all costs.'</p>",
+            "moral": "<em>Those who lack understanding of different professions or art forms often embarrass themselves when they try to act as critics. What seems repetitive in one field may be essential in another.</em>",
+            "image": "./images/bee-and-cuckoo.jpg"
         }
     ]
 }
