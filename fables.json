@@ -83,6 +83,13 @@
             "content": "<p>A bee, flying out of its hive, said to a cuckoo singing on a nearby bush, 'Would you please stop that monotonous noise? There's never been a bird with such a tiresome, repetitive song as yours. It's always 'cuckoo, cuckoo, cuckoo' over and over again.'</p><p>'Well,' replied the cuckoo, 'I'm surprised you criticize my song when your work is just as repetitive. Even if you had a hundred hives to fill, you'd make them all exactly the same. If I'm not inventing anything new, surely everything you do is just as old as the world itself.'</p><p>The bee responded, 'I'll admit that. But in practical work, consistency is a virtue. In matters of art and entertainment, however, monotony is to be avoided at all costs.'</p>",
             "moral": "<em>Those who lack understanding of different professions or art forms often embarrass themselves when they try to act as critics. What seems repetitive in one field may be essential in another.</em>",
             "image": "./images/bee-and-cuckoo.jpg"
+        },
+        {
+            "id": "widow-and-sheep",
+            "title": "The Widow and Her Sheep",
+            "content": "<p>A poor widow had just one sheep. When it was time to shear the sheep, she decided to do it herself to save money. However, she was not very skilled and ended up hurting the sheep while shearing. The sheep, in pain, said: 'Why do you hurt me, Mistress? What good will my blood do for the wool? If you want my flesh, go to the butcher; he will handle it quickly. But if you want my fleece, find someone who knows how to shear properly without causing me harm.'</p>",
+            "moral": "<em>Wisdom and care are more valuable than saving a few pennies at the cost of greater harm.</em>",
+            "image": "./images/widow-and-sheep.jpg"
         }
     ]
 }
