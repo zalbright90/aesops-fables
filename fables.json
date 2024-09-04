@@ -90,6 +90,13 @@
             "content": "<p>A poor widow had just one sheep. When it was time to shear the sheep, she decided to do it herself to save money. However, she was not very skilled and ended up hurting the sheep while shearing. The sheep, in pain, said: 'Why do you hurt me, Mistress? What good will my blood do for the wool? If you want my flesh, go to the butcher; he will handle it quickly. But if you want my fleece, find someone who knows how to shear properly without causing me harm.'</p>",
             "moral": "<em>Wisdom and care are more valuable than saving a few pennies at the cost of greater harm.</em>",
             "image": "./images/widow-and-sheep.jpg"
+        },
+        {
+            "id": "bat-and-weasels",
+            "title": "The Bat and The Weasels",
+            "content": "<p>A bat fell to the ground and was caught by a weasel, who was about to kill and eat it. The bat pleaded for its life, but the weasel replied, 'I can’t let you go; I am an enemy of all birds.' 'But I’m not a bird,' said the bat. 'I am a mouse.' The weasel looked closely and agreed, 'So you are,' and let the bat go.</p>Later, the bat was caught by another weasel. Again, the bat begged to be spared. This weasel said, 'I never let a mouse go.' The bat quickly responded, 'I am not a mouse; I’m a bird.' The weasel examined the bat and replied, 'Ah, you’re right,' and let it go.</p>",
+            "moral": "<em>Know the winds and the tides before you set your course. The wise adapt to survive, but only the foolish pretend to be what they are not.</em>",
+            "image": "./images/bat-and-weasel.jpg"
         }
     ]
 }
