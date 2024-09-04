@@ -160,6 +160,17 @@ footer {
     width: 100%;
 }
 
+.icon8 {
+    color: var(--chlōros);
+    transition: color 0.3s ease;
+    text-decoration: none;
+    
+}
+
+.icon8:hover {
+    color:var(--xanthos);
+}
+
 .social-links {
     margin-top: 0.5rem;
 }
