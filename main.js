@@ -30,8 +30,8 @@ function loadFable(id) {
         setTimeout(() => {
             contentElement.innerHTML = `
                 <h2>${fable.title}</h2>
-                <p>${fable.content}</p>
                 <img src="${fable.image}" alt="Illustration for ${fable.title}">
+                <p>${fable.content}</p>
                 <p><strong>Moral:</strong> ${fable.moral}</p>
             `;
             contentElement.style.opacity = 1;
