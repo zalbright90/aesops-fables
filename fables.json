@@ -97,6 +97,13 @@
             "content": "<p>A bat fell to the ground and was caught by a weasel, who was about to kill and eat it. The bat pleaded for its life, but the weasel replied, 'I can’t let you go; I am an enemy of all birds.' 'But I’m not a bird,' said the bat. 'I am a mouse.' The weasel looked closely and agreed, 'So you are,' and let the bat go.</p>Later, the bat was caught by another weasel. Again, the bat begged to be spared. This weasel said, 'I never let a mouse go.' The bat quickly responded, 'I am not a mouse; I’m a bird.' The weasel examined the bat and replied, 'Ah, you’re right,' and let it go.</p>",
             "moral": "<em>Know the winds and the tides before you set your course. The wise adapt to survive, but only the foolish pretend to be what they are not.</em>",
             "image": "./images/bat-and-weasel.jpg"
+        },
+        {
+            "id": "passenger-and-pilot",
+            "title": "The Passenger and The Pilot",
+            "content": "<p>A storm raged across the sea, tossing the ship violently, and the crew feared for their lives. As the waves finally calmed, a first-time Passenger, still trembling with fear, noticed that the Pilot had remained calm, even during the worst of the storm. Curious, the Passenger asked, 'How did your father die?'<br>The Pilot replied, 'At sea, just like my grandfather before him.'<br>The Passenger, puzzled, asked, 'Aren't you afraid to sail when your family has such a history?'<br>'Afraid?' the Pilot chuckled. 'Why should I be? Everyone meets their fate eventually. Didn't your father pass away too?'<br>'Yes,' answered the Passenger, 'but he died peacefully in his bed.'<br>'And yet,' the Pilot replied with a grin, 'you aren’t afraid to sleep in a bed, are you?'<br>The Passenger, slightly embarrassed, replied, 'Of course not; I feel safe there.'<br>The Pilot nodded. 'Safety isn't found in a place but in your heart. Fate comes for all of us, whether on solid ground or in the storm's grasp.'</p>",
+            "moral": "<em>'Belief isn't bound by circumstance.'</em>",
+            "image": "./images/passenger-and-pilot.jpg"
         }
     ]
 }
