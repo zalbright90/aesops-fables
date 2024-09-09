@@ -104,6 +104,13 @@
             "content": "<p>A storm raged across the sea, tossing the ship violently, and the crew feared for their lives. As the waves finally calmed, a first-time Passenger, still trembling with fear, noticed that the Pilot had remained calm, even during the worst of the storm. Curious, the Passenger asked, 'How did your father die?'<br>The Pilot replied, 'At sea, just like my grandfather before him.'<br>The Passenger, puzzled, asked, 'Aren't you afraid to sail when your family has such a history?'<br>'Afraid?' the Pilot chuckled. 'Why should I be? Everyone meets their fate eventually. Didn't your father pass away too?'<br>'Yes,' answered the Passenger, 'but he died peacefully in his bed.'<br>'And yet,' the Pilot replied with a grin, 'you aren’t afraid to sleep in a bed, are you?'<br>The Passenger, slightly embarrassed, replied, 'Of course not; I feel safe there.'<br>The Pilot nodded. 'Safety isn't found in a place but in your heart. Fate comes for all of us, whether on solid ground or in the storm's grasp.'</p>",
             "moral": "<em>'Belief isn't bound by circumstance.'</em>",
             "image": "./images/passenger-and-pilot.jpg"
+        },
+        {
+            "id": "sparrow-and-hare",
+            "title": "The Sparrow and The Hare",
+            "content": "<p>The Hare, caught in the fierce grip of an Eagle's talons, cried out in distress. Nearby, perched on a branch, a Sparrow watched and, instead of feeling pity, mocked the unfortunate creature. 'Why did you linger, fool?' jeered the Sparrow. 'Could not one as swift as you have outrun the Eagle's grasp?' As soon as these words left the Sparrow's beak, a Hawk, swift as a shadow, swooped down and seized him in its claws. Feeling the Hawk’s sharp talons pierce his sides, the Sparrow shrieked louder than the Hare ever had. The dying Hare, despite his suffering, found a bitter solace in seeing the mocking Sparrow's fate mirror his own.</p>",
+            "moral": "<em>When those who mock the misfortune of others face their own fate, they find no one willing to offer comfort.</em>",
+            "image": "./images/sparrow-and-hare.jpg"
         }
     ]
 }
