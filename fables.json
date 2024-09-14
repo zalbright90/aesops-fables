@@ -111,6 +111,13 @@
             "content": "<p>The Hare, caught in the fierce grip of an Eagle's talons, cried out in distress. Nearby, perched on a branch, a Sparrow watched and, instead of feeling pity, mocked the unfortunate creature. 'Why did you linger, fool?' jeered the Sparrow. 'Could not one as swift as you have outrun the Eagle's grasp?' As soon as these words left the Sparrow's beak, a Hawk, swift as a shadow, swooped down and seized him in its claws. Feeling the Hawk’s sharp talons pierce his sides, the Sparrow shrieked louder than the Hare ever had. The dying Hare, despite his suffering, found a bitter solace in seeing the mocking Sparrow's fate mirror his own.</p>",
             "moral": "<em>When those who mock the misfortune of others face their own fate, they find no one willing to offer comfort.</em>",
             "image": "./images/sparrow-and-hare.jpg"
+        },
+        {
+            "id": "wolf-and-lamb",
+            "title": "The Wolf and The Lamb",
+            "content": "<p>A wolf stumbled upon a lamb who had strayed from the flock. Feeling hesitant about taking the life of such a defenseless creature without a valid reason, he searched for an excuse and finally alleged, 'You insulted me last year, young lamb.'</p><p>'That's simply not possible, sir,' bleated the lamb. 'I was not even born at that time.'</p><p>'Well, you graze in my territory,' countered the wolf.</p><p>'That cannot be,' replied the lamb. 'I have never even tasted grass.'</p><p>'You must have drank from my stream,' insisted the wolf.</p><p>'No, sir,' said the lamb meekly. 'I have only ever consumed milk from my mother.'</p><p>'Regardless,' declared the wolf, 'I am not leaving here without my meal.' With that, he lunged at the lamb and devoured it without hesitation.</p>",
+            "moral": "<em>Any excuse will serve a tyrant.</em>",
+            "image": "./images/wolf-and-lamb.jpg"
         }
     ]
 }
