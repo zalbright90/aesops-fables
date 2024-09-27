@@ -118,6 +118,13 @@
             "content": "<p>A wolf stumbled upon a lamb who had strayed from the flock. Feeling hesitant about taking the life of such a defenseless creature without a valid reason, he searched for an excuse and finally alleged, 'You insulted me last year, young lamb.'</p><p>'That's simply not possible, sir,' bleated the lamb. 'I was not even born at that time.'</p><p>'Well, you graze in my territory,' countered the wolf.</p><p>'That cannot be,' replied the lamb. 'I have never even tasted grass.'</p><p>'You must have drank from my stream,' insisted the wolf.</p><p>'No, sir,' said the lamb meekly. 'I have only ever consumed milk from my mother.'</p><p>'Regardless,' declared the wolf, 'I am not leaving here without my meal.' With that, he lunged at the lamb and devoured it without hesitation.</p>",
             "moral": "<em>Any excuse will serve a tyrant.</em>",
             "image": "./images/wolf-and-lamb.jpg"
+        },
+        {
+            "id": "aesop-fellow-servants",
+            "title": "Aesop and His Fellow Servants",
+            "content": "<p>A merchant, who was once Aesop's master, instructed his servants to prepare for an upcoming journey. When it came time to divide the loads, Aesop asked for the lightest burden. He was allowed to choose for himself, and to everyone’s surprise, he picked up the basket of bread, which was the largest and heaviest of all. The other servants laughed at his choice, thinking he had taken on the greatest weight.</p><p>As they traveled, Aesop struggled with the heavy load. But when they stopped for their meal, he shared the bread equally among all. With each mealtime, the burden lightened, and by the end of the journey, Aesop was left carrying nothing but an empty basket. Meanwhile, the other servants, who had initially chosen what seemed like lighter loads, found their burdens growing heavier with every step. In the end, they couldn’t help but admire Aesop's foresight.</p>",
+            "moral": "<em>Wisdom lightens the load, for the wise know that burdens shared become easier to bear.</em>",
+            "image": "./images/aesop-fellow-servants.jpg"
         }
     ]
 }
