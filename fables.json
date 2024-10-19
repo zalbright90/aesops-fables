@@ -125,6 +125,13 @@
             "content": "<p>A merchant, who was once Aesop's master, instructed his servants to prepare for an upcoming journey. When it came time to divide the loads, Aesop asked for the lightest burden. He was allowed to choose for himself, and to everyone’s surprise, he picked up the basket of bread, which was the largest and heaviest of all. The other servants laughed at his choice, thinking he had taken on the greatest weight.</p><p>As they traveled, Aesop struggled with the heavy load. But when they stopped for their meal, he shared the bread equally among all. With each mealtime, the burden lightened, and by the end of the journey, Aesop was left carrying nothing but an empty basket. Meanwhile, the other servants, who had initially chosen what seemed like lighter loads, found their burdens growing heavier with every step. In the end, they couldn’t help but admire Aesop's foresight.</p>",
             "moral": "<em>Wisdom lightens the load, for the wise know that burdens shared become easier to bear.</em>",
             "image": "./images/aesop-fellow-servants.jpg"
+        },
+        {
+            "id": "man-and-the-stone",
+            "title": "The Man and The Stone",
+            "content": "<p>One day, Aesop’s master, Xanthus, sent him to check out the public bath and see who was there. When Aesop arrived, he noticed that a large stone had fallen near the entrance, causing many people to trip over it as they came and went. Despite this, only one person took the initiative to move the stone out of the way. Aesop observed the scene and returned to Xanthus.</p><p>'Master,' Aesop said, 'there was only one real man at the bath today.'</p><p>Curious, Xanthus went to the bath himself and found the place packed with people. He turned to Aesop, confused. 'Why did you lie to me? The bath is full of men.'</p><p>Aesop calmly explained, 'Master, only the one who moved the stone was worthy to be called a man. The rest, though many in number, did not act like one.'</p>",
+            "moral": "A man's worth is shown not by his presence, but by his actions.",
+            "image": "./images/man-and-stone.jpg"
         }
     ]
 }
