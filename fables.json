@@ -139,6 +139,13 @@
             "content": "<p>A Hare was well-liked by the other animals, each one claiming to be her friend. But one day, when she heard the hounds approaching, she became anxious and hoped her many friends would help her escape.</p><p>First, she went to the Horse and pleaded, 'Please, carry me away on your back, so the hounds do not catch me!' But the Horse shook his head. 'I have important work to do for my master,' he said, 'but do not worry — the others will help you.'</p><p>Next, she turned to the Bull and asked, 'Will you use your horns to scare off the hounds?' The Bull replied, 'I am truly sorry, but I have an engagement with a lady. I am sure the Goat will be able to help you, though.'</p><p>So, she went to the Goat, who said, 'I am afraid my back might hurt you if I tried to carry you. The Ram is likely the best one for this.'</p><p>Desperate, she ran to the Ram, who only replied, 'Not now, my friend. I would not want to interfere since hounds are known to chase after sheep too.'</p><p>Finally, as a last resort, the Hare went to the Calf. But the Calf, feeling nervous, said, 'I am really sorry, but if all the older animals refused, I do not feel right taking this on.'</p><p>By now, the hounds were near, so the Hare had no choice but to run for her life. Luckily, she escaped on her own.</p>",
             "moral": "<em>True friendship is built not on words or popularity, but on action and loyalty. Seek not many friends, but steadfast ones who value bonds over comfort, and who will stand by you when it matters most.</em>",
             "image": "./images/hare-with-friends.jpg"
+        },
+        {
+            "id": "crow-and-fox",
+            "title": "The Crow and The Fox",
+            "content": "<p>A crow perched on a tree branch, clutching a piece of cheese in her beak, when a fox strolled by and spotted her prize. Slyly, he began to think up a way to snatch the cheese for himself. Standing beneath the branch, he looked up and called out, 'My, what a magnificent bird I see above! Your feathers shine with a rare beauty, unmatched by any other. If your voice is as lovely as your appearance, then surely you are queen of all birds.'</p><p>The crow, thoroughly flattered, thought, I’ll show him my voice is just as impressive as my looks. She opened her beak and let out a loud caw.</p><p>As soon as she did, the cheese fell to the ground. The fox snatched it up with a smirk and said, 'Well, you certainly have a voice, madam. But you could use a bit more wisdom to go with it.'</p>",
+            "moral": "<em>Trust not the words of flatterers</p>",
+            "image": "./images/crow-and-fox.jpg"
         }
     ]
 }
