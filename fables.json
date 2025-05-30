@@ -144,8 +144,18 @@
             "id": "crow-and-fox",
             "title": "The Crow and The Fox",
             "content": "<p>A crow perched on a tree branch, clutching a piece of cheese in her beak, when a fox strolled by and spotted her prize. Slyly, he began to think up a way to snatch the cheese for himself. Standing beneath the branch, he looked up and called out, 'My, what a magnificent bird I see above! Your feathers shine with a rare beauty, unmatched by any other. If your voice is as lovely as your appearance, then surely you are queen of all birds.'</p><p>The crow, thoroughly flattered, thought, I’ll show him my voice is just as impressive as my looks. She opened her beak and let out a loud caw.</p><p>As soon as she did, the cheese fell to the ground. The fox snatched it up with a smirk and said, 'Well, you certainly have a voice, madam. But you could use a bit more wisdom to go with it.'</p>",
-            "moral": "<em>Trust not the words of flatterers</p>",
+            "moral": "<em>Trust not the words of flatterers</em>",
             "image": "./images/crow-and-fox.jpg"
+        },
+        {
+            "id": "rooster-and-fox",
+            "title": "The Rooster and The Fox",
+            "content": "<p>One bright spring morning, a Rooster perched high in the branches of an old oak tree. He stretched his neck, fluffed his feathers, and let out a proud, echoing crow that rang through the forest.</p><p>Not far off, a Fox heard the familiar call. His stomach rumbled. 'Breakfast,' he thought, and trotted over quietly. When he saw the Rooster perched out of reach, the Fox smiled and called out sweetly:</p><p>'Good morning, cousin! Have you heard the news? There is a new law—peace and friendship have been declared among all animals, birds and beasts alike. No more chasing, no more hunting, just harmony and good will! Why not come down so we can talk about this wonderful turn of events?'</p><p>The Rooster tilted his head and looked off into the distance.</p><p>'Interesting,' he said. 'And just in time, too — I think I see a pack of dogs coming this way. Perhaps they will want to celebrate this peace with you.'</p><p>The Fox's eyes went wide. 'Ah—well, I just remembered I have other business. Farewell, cousin!'</p><p>'Leaving so soon?' said the Rooster with a sly smile. 'Surely you are not afraid of dogs in these new peaceful times?'</p><p>The Fox called over his shoulder as he ran off: 'I would love to stay — but let us not assume the dogs have heard the news!'</p>",
+            "moral": "<em>Words mean little without deeds. Be wary of sweet tongues and false peace; honor is known by action, not speech.</em>",
+            "image": "./images/rooster-and-fox.png"
+        },
+        {
+            
         }
     ]
 }
