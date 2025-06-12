@@ -1,0 +1,8 @@
+{
+    "name": "Aesop's Fables Illutrated",
+    "short_name": "Aesop's Fables",
+    "icons": [],
+    "theme_color": "#1A237E",
+    "background_color": "#E8EAF6",
+    "display": "standalone"
+  }
